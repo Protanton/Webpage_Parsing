@@ -1,8 +1,8 @@
 # Webpage_Parsing
 
-Site 1: https://www.mebelshara.ru/contacts
-Site 2: https://www.tui.ru/offices/
-Site 3: https://www.tvoyaapteka.ru
+Page 1: https://www.mebelshara.ru/contacts
+Page 2: https://www.tui.ru/offices/
+Page 3: https://www.tvoyaapteka.ru
 
 Task:
 Write a Python script that will collect the address (city, street, house number, etc.), coordinates, opening hours (spread out by days) and phone numbers (general and additional, if specified) from the site in all cities.
